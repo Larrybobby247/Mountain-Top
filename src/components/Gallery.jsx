@@ -2,12 +2,12 @@ import React, { useState } from 'react';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 
 import Img1 from '../assets/front-view.jpg'
-import Img2 from '../assets/Gallary1.jpg'
-import Img3 from '../assets/Gallary2.jpg'
+import Img2 from '../assets/gallary1.jpg'
+import Img3 from '../assets/gallary2.jpg'
 import Img4 from '../assets/swimming-pool.jpg'
-import Img5 from '../assets/Gallary3.jpg'
-import Img6 from '../assets/Gallary5.jpg'
-import Img7 from '../assets/Gallary6.jpg'
+import Img5 from '../assets/gallary3.jpg'
+import Img6 from '../assets/gallary5.jpg'
+import Img7 from '../assets/gallary6.jpg'
 import Img8 from '../assets/reception.jpg'
 
 const Gallery = () => {
