@@ -2,6 +2,8 @@ import React, { useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
 import Typewriter from 'typewriter-effect';
 
+import Img1 from '../assets/front-view.jpg'
+
 const Hero = () => {
   const canvasRef = useRef(null);
 
@@ -82,7 +84,7 @@ const Hero = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img 
-          src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1920&q=80" 
+          src={Img1}
           alt="Mountain Top Hotel" 
           className="w-full h-full object-cover"
         />
