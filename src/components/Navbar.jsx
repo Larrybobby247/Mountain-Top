@@ -53,7 +53,7 @@ const Navbar = () => {
               </div>
               <div className="hidden sm:block">
                 <span className="font-display text-xl font-bold text-white tracking-wide">Mountain Top</span>
-                <span className="block text-[10px] text-gold-400 tracking-[0.3em] uppercase -mt-1">Hotel & Suites</span>
+                <span className="block text-[10px] text-gold-400 tracking-[0.3em] uppercase -mt-1">Suites and Apartments</span>
               </div>
             </Link>
 

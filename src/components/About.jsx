@@ -49,7 +49,7 @@ const About = () => {
               Redefining Budget<br/>Luxury in Lagos
             </h2>
             <p className="text-navy-600 text-lg leading-relaxed mb-6 font-body">
-              Mountain Top Hotel & Suites is a premier hospitality destination in Ojodu, Lagos, redefining budget luxury through dedicated 24/7 service, spacious lodging, and modern comfort.
+              Mountain Top Suites and Apartments is a premier hospitality destination in Ojodu, Lagos, redefining budget luxury through dedicated 24/7 service, spacious lodging, and modern comfort.
             </p>
             <p className="text-navy-500 leading-relaxed mb-8 font-body">
               We do not just offer rooms; we offer a sanctuary. With dual properties catering to both economy travelers and premium apartment seekers, your peace of mind is guaranteed.

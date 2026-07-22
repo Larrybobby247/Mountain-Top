@@ -62,7 +62,7 @@ const Testimonials = () => {
           <div className="deco-line-center mb-6"></div>
           <p className="text-gold-500 text-sm tracking-[0.3em] uppercase font-medium mb-4 font-accent">Guest Reviews</p>
           <h2 className="font-display text-4xl sm:text-5xl font-bold text-navy-900 mb-4">What Our Guests Say</h2>
-          <p className="text-navy-500 max-w-xl mx-auto font-body">Real experiences from real guests who have stayed at Mountain Top Hotel & Suites.</p>
+          <p className="text-navy-500 max-w-xl mx-auto font-body">Real experiences from real guests who have stayed at Mountain Top Suites and Apartments.</p>
         </div>
 
         <div className="overflow-hidden">

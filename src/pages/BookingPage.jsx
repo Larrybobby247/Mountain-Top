@@ -15,7 +15,7 @@ const BookingPage = () => {
 
   const accountDetails = {
     bankName: 'First Bank of Nigeria',
-    accountName: 'Mountain Top Hotel & Suites Ltd',
+    accountName: 'Mountain Top Suites and Apartments Ltd',
     accountNumber: '0123456789',
     sortCode: 'FBNINGLA'
   };
@@ -41,7 +41,7 @@ const BookingPage = () => {
 
   const sendToWhatsApp = () => {
     const total = calculateTotal();
-    const message = `*Mountain Top Hotel & Suites - Booking Inquiry*%0A%0A` +
+    const message = `*Mountain Top Suites and Apartments - Booking Inquiry*%0A%0A` +
       `*Booking Reference:* ${bookingData.bookingRef}%0A` +
       `*Guest Name:* ${customerData.fullName}%0A` +
       `*Email:* ${customerData.email}%0A` +

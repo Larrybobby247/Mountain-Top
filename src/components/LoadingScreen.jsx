@@ -39,7 +39,7 @@ const LoadingScreen = ({ onComplete }) => {
           Mountain Top
         </h1>
         <p className="text-gold-400 text-sm tracking-[0.3em] uppercase mb-6">
-          Hotel & Suites
+          Suites and Apartments
         </p>
 
         <div className="w-64 h-1 bg-navy-800 rounded-full mx-auto overflow-hidden">

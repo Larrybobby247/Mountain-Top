@@ -18,7 +18,7 @@ const Contact = () => {
     e.preventDefault();
 
     // Build WhatsApp message
-    const message = `Hello Mountain Top Hotel & Suites,%0A%0A` +
+    const message = `Hello Mountain Top Suites and Apartments,%0A%0A` +
       `Name: ${formData.fullName}%0A` +
       `Email: ${formData.email}%0A` +
       `Subject: ${formData.subject}%0A` +
@@ -182,7 +182,7 @@ const Contact = () => {
                 allowFullScreen="" 
                 loading="lazy" 
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Mountain Top Hotel Location"
+                title="Mountain Top Suites and Apartments Location"
               ></iframe>
             </div>
           </div>
