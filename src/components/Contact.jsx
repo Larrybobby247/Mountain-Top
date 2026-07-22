@@ -25,7 +25,7 @@ const Contact = () => {
       `Message: ${formData.message}%0A%0A` +
       `I would like to inquire about your services.`;
 
-    window.open(`https://wa.me/2348138519792?text=${message}`, '_blank');
+    window.open(`https://wa.me/2348067120227?text=${message}`, '_blank');
   };
 
   return (
@@ -124,7 +124,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-navy-900 font-semibold text-sm font-body">Phone</p>
-                    <p className="text-navy-500 text-sm mt-1 font-body">+234 813 851 9792</p>
+                    <p className="text-navy-500 text-sm mt-1 font-body">+234 806 712 0227</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -134,6 +134,7 @@ const Contact = () => {
                   <div>
                     <p className="text-navy-900 font-semibold text-sm font-body">Email</p>
                     <p className="text-navy-500 text-sm mt-1 font-body">info@mountaintop.com</p>
+                    <p className="text-navy-500 text-sm mt-1 font-body">mountaintoplagos@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
@@ -143,7 +144,7 @@ const Contact = () => {
                   <div>
                     <p className="text-navy-900 font-semibold text-sm font-body">WhatsApp</p>
                     <a 
-                      href="https://wa.me/2348138519792" 
+                      href="https://wa.me/2348067120227" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-gold-500 text-sm mt-1 hover:text-gold-600 transition inline-flex items-center gap-1 font-body"
