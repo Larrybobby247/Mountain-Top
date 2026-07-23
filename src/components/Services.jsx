@@ -14,7 +14,7 @@ const Services = () => {
     {
       icon: 'fas fa-utensils',
       title: 'Food & Beverage',
-      description: 'Savor delicious local Nigerian delicacies and international cuisine at our on-site restaurant and bar, prepared fresh daily by our expert chefs.',
+      description: 'Savor delicious local Nigerian delicacies and International cuisine at our on-site restaurant and bar, prepared fresh daily by our expert chefs.',
       category: 'Dining'
     },
     {

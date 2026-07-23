@@ -7,7 +7,7 @@ const Amenities = () => {
   const amenities = [
     { icon: 'fas fa-bed', title: '41 Rooms, Suites & Apartments', desc: 'Comfortable accommodations for every need' },
     { icon: 'fas fa-person-booth', title: 'Private Balconies', desc: 'Attached balconies for scenic views' },
-    { icon: 'fas fa-utensils', title: 'Restaurant', desc: 'Local & international cuisine' },
+    { icon: 'fas fa-utensils', title: 'Restaurant', desc: 'Local & International cuisine' },
     { icon: 'fas fa-water', title: 'Adult Swimming Pool', desc: 'Relax and unwind' },
     { icon: 'fas fa-child', title: 'Children Swimming Pool', desc: 'Safe fun for the little ones' },
     { icon: 'fas fa-taxi', title: 'Taxi on Call', desc: 'Transportation at your fingertips' },

@@ -7,6 +7,7 @@ const Footer = () => {
     { label: 'Our Services', href: '/#services' },
     { label: 'Rooms & Suites', href: '/#rooms' },
     { label: 'Gallery', href: '/#gallery' },
+    { label: 'Amenities', href: '/#amenities'},
     { label: 'Contact', href: '/#contact' }
   ];
 
@@ -93,7 +94,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-navy-400 text-sm font-body">2025 Mountain Top Suites and Apartments. All rights reserved.</p>
+          <p className="text-navy-400 text-sm font-body">2026 Mountain Top Suites and Apartments. All rights reserved.</p>
           <div className="flex gap-6">
             <span className="text-navy-400 text-sm hover:text-gold-400 transition cursor-pointer font-body">Privacy Policy</span>
             <span className="text-navy-400 text-sm hover:text-gold-400 transition cursor-pointer font-body">Terms of Service</span>

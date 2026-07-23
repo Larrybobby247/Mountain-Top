@@ -59,7 +59,7 @@ const About = () => {
                   This idyllic Hotel combines natural beauty with modern comforts, making it an ideal destination for relaxation, adventure, and rejuvenation. Surrounded by breathtaking landscapes, guests can enjoy stunning views and immerse themselves in nature.
                 </p>
                 <p>
-                  Our facilities offer a blend of comfort, entertainment, and hospitality, tailored to make your stay unforgettable. The Hotel features comfortable accommodations, including well-appointed rooms each designed to provide a peaceful ambiance. Guests can indulge in delicious local and international cuisine at the on-site restaurant, which emphasizes fresh, seasonal ingredients.
+                  Our facilities offer a blend of comfort, entertainment, and hospitality, tailored to make your stay unforgettable. The Hotel features comfortable accommodations, including well-appointed rooms each designed to provide a peaceful ambiance. Guests can indulge in delicious local and International cuisine at the on-site restaurant, which emphasizes fresh, seasonal ingredients.
                 </p>
               </div>
 

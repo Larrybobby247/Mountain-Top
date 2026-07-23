@@ -115,7 +115,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-navy-900 font-semibold text-sm font-body">Address</p>
-                    <p className="text-navy-500 text-sm mt-1 font-body">Grammar School Bus Stop, 16/23 Olaleke Taiwo St, off Aina Rd, Ojodu, Lagos</p>
+                    <p className="text-navy-500 text-sm mt-1 font-body">Grammar School Bus Stop, 23 Olaleke Taiwo St, off Aina Rd, Ojodu, Lagos</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">

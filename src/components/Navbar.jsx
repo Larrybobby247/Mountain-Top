@@ -19,10 +19,11 @@ const Navbar = () => {
   }, [location]);
 
   const navLinks = [
-    { to: '/#about', label: 'About' },
+    { to: '/#about', label: 'About Us' },
     { to: '/#services', label: 'Services' },
-    { to: '/#rooms', label: 'Suites' },
+    { to: '/#rooms', label: 'Rooms' },
     { to: '/#gallery', label: 'Gallery' },
+    { to: '/#amenities', label: 'Amenities' },
     { to: '/#testimonials', label: 'Reviews' },
     { to: '/#contact', label: 'Contact' },
   ];
