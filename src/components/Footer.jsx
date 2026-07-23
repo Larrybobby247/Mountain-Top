@@ -30,7 +30,7 @@ const Footer = () => {
               </div>
               <div>
                 <span className="font-display text-lg font-bold text-white">Mountain Top</span>
-                <span className="block text-[10px] text-gold-400 tracking-[0.3em] uppercase -mt-1">Hotel & Suites</span>
+                <span className="block text-[10px] text-gold-400 tracking-[0.3em] uppercase -mt-1">Suites and Apartments</span>
               </div>
             </div>
             <p className="text-navy-300 text-sm leading-relaxed font-body">

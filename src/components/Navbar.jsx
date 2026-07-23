@@ -120,7 +120,7 @@ const Navbar = () => {
           ))}
           <div className="mt-8 pt-8 border-t border-white/10">
             <p className="text-gold-400 text-sm mb-2">Call Us</p>
-            <a href="tel:+2348138519792" className="text-white text-xl font-display">+234 813 851 9792</a>
+            <a href="tel:+2348138519792" className="text-white text-xl font-display">+234 806 712 0227</a>
           </div>
         </div>
       </div>
