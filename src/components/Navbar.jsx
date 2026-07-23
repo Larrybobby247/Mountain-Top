@@ -72,11 +72,11 @@ const Navbar = () => {
 
             <div className="flex items-center gap-4">
               <a 
-                href="tel:+2348138519792" 
+                href="tel:+2348067120227"
                 className="hidden md:flex items-center gap-2 text-gold-400 hover:text-gold-300 transition"
               >
                 <i className="fas fa-phone-alt text-sm"></i>
-                <span className="text-sm font-medium">+234 813 851 9792</span>
+                <span className="text-sm font-medium">+234 806 712 0227</span>
               </a>
               <Link 
                 to="/booking" 
